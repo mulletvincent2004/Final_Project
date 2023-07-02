@@ -1,0 +1,5 @@
+Tables,300
+Basketball Ball,5
+Chairs,300
+Lato lato,100
+Basketball Court,2
